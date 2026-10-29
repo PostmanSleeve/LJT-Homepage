@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/hkust-nlp), supervised by [Prof. Junxian He](https://scholar.google.com/citations?user=VSSfrToAAAAJ&hl=en). I graduated from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2024 with a B.Eng. degree. My research focuses on natural language processing and machine learning, with particular interests in LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability.
+I am a first-year PhD candidate at the HKUST NLP Group, supervised by Prof. Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng. degree. My research focuses on natural language processing and machine learning, with particular interests in LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability.
 
 I am currently a research intern at MINIMAX (February 2025 – Present). I have previously interned at Tencent WXG (June 2024 – September 2024) and Shanghai AI Lab (June 2023 – December 2023).
 
